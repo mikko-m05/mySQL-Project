@@ -5,7 +5,7 @@
 - Insights about affected industries and locations.
 - Trends in layoffs over time.
 - Analyzed companies with the highest and lowest layoffs.
-- Insights on company stages that most affect by layoffs.
+- Insights on company stages that most affected by layoffs.
 
 ## Tools Used
 - MySQL for data analysis.
